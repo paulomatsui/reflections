@@ -1,0 +1,15 @@
+Question 1
+"What happens when you initialize a repository? Why do you need to do it?"
+—————
+
+Whn you initialize a repository based on an existing directory, Git creates an  invisible meta file .git inside this folder to track the directory you were in when you gave the <<git init>> command.
+I've done it so now the directory *is* a proper repository and can be version-controlled by Git.
+
+
+
+Question 2
+"How is the staging area different from the working directory and the repository? What value do you think it offers?"
+—————
+
+Staging area seems like a intermediary limbo where stuff are prepared to get commited. Different from the working directory, the staging area is being watched by Git.
+The staging area has the same value as an e-mail draft - a place where you can put stuff before commiting it definitely.
