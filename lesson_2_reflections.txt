@@ -13,3 +13,22 @@ Question 2
 
 Staging area seems like a intermediary limbo where stuff are prepared to get commited. Different from the working directory, the staging area is being watched by Git.
 The staging area has the same value as an e-mail draft - a place where you can put stuff before commiting it definitely.
+
+
+
+Question 3
+"How can you use the staging area to make sure you have one commit per logical change?"
+—————
+
+Using git diff --staged to compare the Staging Area version to the most recent Commit on Git.
+
+
+
+Question 4
+"What are some situations when branches would be helpful in keeping your history organized? How would branches help?"
+—————
+
+When trying some experiments or alternatives in the code - without disturbing or destroying the original history (Master) - branching would be very helpful. This is a non-destructive editing. Pretty handy.
+
+
+
