@@ -1,0 +1,79 @@
+Question 1
+“How did viewing a diff between two versions of a file help you see the bug that was introduced?”
+—————
+
+First, I learned how to compare different versions of code.
+diff -u nomeDoVelho.ext nomeDoNovo.ext
+
+The output uses - to show what was removed.
+And shows + on lines that were introduced.
+
+Going through the combing process helped me look for answers not directly related to the exercise.
+
+So, now I’m not only being able to compare two versions side-by-side.
+
+I learned that I can call TextEdit from the Terminal.
+And that I can create and navigate through Finder folders through the Terminal, also.
+
+: )
+
+By the way, the command to launch TextEdit is just open -t.
+
+And to open a specific file, I just type the complete file name after that.
+
+Cool.
+
+
+
+Question 2
+“How could having easy access to the entire history of a file make you a more efficient programmer in the long term?”
+—————
+
+I could compare, copy and paste useful code.
+I could understand and isolate when bugs eventually occurred.
+I could step back to a version that still worked, before the new tweaks.
+
+
+
+Question 3
+“As a programmer, when would you want to have a version of your code saved?”
+—————
+
+A mix of regular (scheduled time intervals) with manual Cmd-S would be the ideal world.
+
+
+
+Question 4
+“What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?”
+—————
+
+The manual pros are: you get to choose what and when you’re saving your code, based on conceptual cuts and divisions to commit.
+The downside is that you can easily forget to save changes and bundle non-related code together or, worse yet: lose what you’ve written.
+
+Automatic saves are handy since you don’t have to remember to hit Cmd-S.
+On the other hand, when you go back to search your history, there will be no rational or uniformity on saved chucks - besides their saving time stamp.
+
+
+
+Question 5
+“Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?”
+—————
+
+Some code are inter-related. Say, HTML and CSS, for instance. It makes sense to save them together, since changing code in one will affect the other.
+Google Docs treats files differently because their product is not optimized for saving code. It is designed to track individual documents and images.
+
+
+
+Question 6
+“How can you use the commands git log and git diff to view the history of files?”
+—————
+
+git log shows all the commits registered, git diff compares two commits and shows what was added and what was deleted.
+
+
+
+Question 7
+“Now that you have your workspace set up, what do you want to try using Git for?”
+—————
+
+I want to use Git for my iOS tests, of course. And being able to have another tool under my belt.
