@@ -13,18 +13,19 @@ Question 2
 automatically stay up-to-date with your remote repository?"
 —————
 
-    No answer yet
+You don't want to Git update every-minor-change and also, there are things you don't want to go public yet.
 
 
 
 
 Question 3
-"Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?"
+"Describe the differences between forks, clones, and branches.  When would you use one instead of another?"
 —————
 
-    Fill in your answer here
-
+Forks are GitHub repositories clones (with internal pointers and markers), clones are simple copies of GitHub repositories (with no internal links between them) and branches are timelines of a repository (either local, or on GitHub).
+You use forks when you want to credit the original coder, when you want to mess around with that code yourself and want to be able to contribute with it.
+On the other hand, cloning is a command you use when you want to make a simple copy of a repository and its commit history - without any internal links and credits to the original repository.
+And lastly a branch is a timeline of a code's history. All the changes that were done in a timeline, grouped as a tree branch.
 
 
 
@@ -33,8 +34,7 @@ Question 4
 stored locally?"
 —————
 
-    Fill in your answer here
-
+When merging with a colaborator, your code can be compared to it and to the colaborator's. And changed/merged accordingly.
 
 
 
