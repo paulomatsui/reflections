@@ -43,8 +43,7 @@ Question 5
 and what would be harder?"
 —————
 
-    Fill in your answer here
-
+Without Git or GitHub the process would be more nimble. But all the rest (organization, updates and sync) would be pretty much difficult and cumbersome.
 
 
 
