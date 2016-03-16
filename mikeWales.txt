@@ -1,0 +1,15 @@
+Hi, my name is Mike Wales, and I’m a manager.
+
+I usually create a new branch whenever I’m moving on to a different piece of work. Anytime I’m doing something different, I will create a new branch.
+
+I’d like to think it as context switching. Whenever I’m switching toward work a new feature, or whether I’m going to correct a bug, I’ll create a new branch at that time.
+
+Git Branches help you keep a project organized, particulary when you’re sharing that project publicly(?).
+You have your master branch and that would be your production quality branch - that never breaks, always works - and then you could have a development branch where actual work is taken place on your project.
+
+Then a lot of time you’ll have things like experimental branch, or maybe some unique feature branches. Those are things that you are working on and you’re fully expect them to break.
+And you want to share those with the public, but with the understanding that this isn’t production quality work just yet.
+
+Branches are also good when not only colaborating publicly but really good colaborate with yourself. So lot of times, if I’m working on a feature and I come across a bug, branches allow me that ability to context switch and get away from the work I’m doing on my feature, go back to where I need to be to fix the bug and then compartmentalize that work.
+
+Branches are really good even if I get bored on working on a feature. It gives me the ability to “Ok, I wanna switch and star working on something else right now.”
