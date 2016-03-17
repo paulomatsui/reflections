@@ -45,7 +45,3 @@ Question 6
 —————
 
 Auto would be great. But sometimes we're forced to read the fine print, understand the code and try to resolve the conflicts by hand
-
-
-
-
