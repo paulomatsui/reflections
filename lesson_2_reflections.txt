@@ -32,3 +32,20 @@ When trying some experiments or alternatives in the code - without disturbing or
 
 
 
+Question 5
+"How do the diagrams help you visualize the branch structure?"
+—————
+
+Visualizing a tree structure (instead of only abstracting it in your head) is pretty much easier - and helps to understand the physical shape (master history line and its branches) of a project on a Git history.
+
+
+
+Question 6
+"What are the pros and cons of Git’s automatic merging vs. always doing merges manually?"
+—————
+
+Auto would be great. But sometimes we're forced to read the fine print, understand the code and try to resolve the conflicts by hand
+
+
+
+
